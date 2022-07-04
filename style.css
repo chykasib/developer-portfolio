@@ -1,0 +1,40 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#i {
+    color: chocolate;
+}
+
+section {
+    display: flex;
+}
+
+.e {
+    width: 60%;
+    padding-left: 8%;
+}
+
+.e img {
+    width: 90%
+}
+
+.o {
+
+    padding: 5px 10px;
+    background-image: linear-gradient(orange, tomato);
+    color: azure;
+    font-weight: 700;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.b {
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+}
