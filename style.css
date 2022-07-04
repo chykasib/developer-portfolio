@@ -39,3 +39,12 @@ section {
     background-image: url(images/bg.jpg);
     background-repeat: no-repeat;
 }
+
+.amazon {
+    padding: 5px 10px;
+    background-image: linear-gradient(rgb(204, 146, 39), tomato);
+    color: azure;
+    font-weight: 700;
+    border-radius: 5px;
+    text-decoration: none;
+}
